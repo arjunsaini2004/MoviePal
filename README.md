@@ -26,7 +26,7 @@ The Interactive Movie Recommendation System follows a full stack machine learnin
 
 **Tech Stack**: React, Typescript, Vite, Chakra UI, AWS Amplify, Route 53
 
-The front end of the Interactive Movie Recommendation System is built using React and Typescript. The application integrates with the deployed recommendation API and the backend Movies API to provide a seamless user experience. The UI is designed using Chakra UI, which provides a set of accessible and customizable UI components. Vite is used as the build tool for fast development and HMR (Hot Module Replacement). The application is deployed using AWS Amplify, which simplifies the deployment process. Route 53 is used for DNS management and routing the application traffic pointing to the domain  [ArjunDev.com](https://ArjunDev.com).
+The front end of the Interactive Movie Recommendation System is built using React and Typescript. The application integrates with the deployed recommendation API and the backend Movies API to provide a seamless user experience. The UI is designed using Chakra UI, which provides a set of accessible and customizable UI components. Vite is used as the build tool for fast development and HMR (Hot Module Replacement). The application is deployed using AWS Amplify, which simplifies the deployment process. Route 53 is used for DNS management and routing the application traffic pointing to the domain  [ArjunDevv.com](https://ArjunDevv.com).
 
 
 
